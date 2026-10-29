@@ -8,3 +8,7 @@
 Эксперимент первый
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5dd8332-45c1-4ce8-85a3-340589391962" />
+
+Эксперимент второй
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad0c3548-3fd1-43fc-b059-bb27fd400d2e" />
