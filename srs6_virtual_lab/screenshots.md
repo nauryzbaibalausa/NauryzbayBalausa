@@ -12,3 +12,7 @@
 Эксперимент второй
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad0c3548-3fd1-43fc-b059-bb27fd400d2e" />
+
+Резудьтаты улучшений 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54578aa9-e835-41e1-8193-10019f83ac32" />
