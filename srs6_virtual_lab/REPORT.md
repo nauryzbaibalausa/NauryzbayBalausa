@@ -85,3 +85,15 @@ Distance - расстояние от поверхности. Duration - врем
 Исходный и финальный код: 
 
 Смотреть в папке [code/](code/) (файлы [sketch_baseline.ino](code/sketch_baseline.ino) и [sketch_final.ino](code/sketch_final.ino))
+
+Схема в симуляторе:
+
+Конфигурация доступна в папке [simulator/](simulator/)([diagram.json](simulator/diagram.json))
+
+Скриншоты экспериментов:
+
+Все изображения и описания находятся в [screenshots/](screenshots/screenshots.md)
+
+Записи и таблица испытаний:
+
+Оформлены в папке [notebook/](notebook/notebook.md)
