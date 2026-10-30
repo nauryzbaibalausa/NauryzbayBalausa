@@ -92,8 +92,8 @@ Distance - расстояние от поверхности. Duration - врем
 
 Скриншоты экспериментов:
 
-Все изображения и описания находятся в [screenshots/](screenshots/)
+Все изображения и описания находятся в [screenshots.md/](screenshots.md/)
 
 Записи и таблица испытаний:
 
-Оформлены в папке [notebook/](notebook/notebook.md)
+Оформлены в папке [notebook.md/](notebook.md/)
