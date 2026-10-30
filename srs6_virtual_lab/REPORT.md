@@ -88,11 +88,11 @@ Distance - расстояние от поверхности. Duration - врем
 
 Схема в симуляторе:
 
-Конфигурация доступна в папке [simulator/](simulator/)([diagram.json](simulator/diagram.json))
+Конфигурация доступна в папке [simulator/](simulator/)
 
 Скриншоты экспериментов:
 
-Все изображения и описания находятся в [screenshots/](screenshots/screenshots.md)
+Все изображения и описания находятся в [screenshots/](screenshots/)
 
 Записи и таблица испытаний:
 
